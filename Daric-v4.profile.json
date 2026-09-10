@@ -1,0 +1,813 @@
+{
+  "format": "RLSettingsCloneProfile",
+  "version": 4,
+  "name": "Daric Screenshot + Save Profile",
+  "source": {
+    "description": "Sanitized settings-only profile extracted from the uploaded DBE_Production save that matches the screenshots.",
+    "fingerprint": {
+      "camera": "FOV 110; Height 90; Pitch -4; Swivel 6; Transition 1.4",
+      "controls": "Steering 1.20; Aerial 1.50; Controller DZ 0.05; Dodge DZ 0.90",
+      "audio": "Master 31%; Gameplay 12%; Music 0%; Voice 40%; Ambient 3%; Crowd 1%",
+      "video": "1920x1080; MaxFPS 10000 (uncapped)"
+    }
+  },
+  "segments": [
+    {
+      "categories": [
+        "Audio"
+      ],
+      "type": "TAGame.MusicPlayerSave_TA",
+      "ordinal": 0,
+      "sha256": "98643FA2D3AA5BA97E5929D76B5FF2C758327BB69A750EC83B69F86BC3A4EBB3",
+      "data": "/////xUAAABHYW1lcGxheU11c2ljU2V0dGluZwANAAAAQnl0ZVByb3BlcnR5ABwAAAAAAAAAFgAAAEVHYW1lcGxheU11c2ljU2V0dGluZwAYAAAAR2FtZXBsYXlNdXNpY19VbmRlZmluZWQACAAAAFZlcnNpb24ADAAAAEludFByb3BlcnR5AAQAAAAAAAAAAAAAAAUAAABOb25lAA=="
+    },
+    {
+      "categories": [
+        "Audio"
+      ],
+      "type": "TAGame.SoundSettingsSave_TA",
+      "ordinal": 0,
+      "sha256": "178D655EF61A9BA6052BEF783EE727CB36249653FE5ADD02FDE820DDB37B8CF6",
+      "data": "/////w0AAABNYXN0ZXJWb2x1bWUADgAAAEZsb2F0UHJvcGVydHkABAAAAAAAAABSuJ4+DAAAAFNvdW5kVm9sdW1lAA4AAABGbG9hdFByb3BlcnR5AAQAAAAAAAAAj8L1PQwAAABNdXNpY1ZvbHVtZQAOAAAARmxvYXRQcm9wZXJ0eQAEAAAAAAAAAAAAAAAUAAAAR2FtZXBsYXlNdXNpY1ZvbHVtZQAOAAAARmxvYXRQcm9wZXJ0eQAEAAAAAAAAAAAAAAAOAAAAQW1iaWVudFZvbHVtZQAOAAAARmxvYXRQcm9wZXJ0eQAEAAAAAAAAAI/C9TwMAAAAQ3Jvd2RWb2x1bWUADgAAAEZsb2F0UHJvcGVydHkABAAAAAAAAAAK1yM8BQAAAE5vbmUA"
+    },
+    {
+      "categories": [
+        "Interface"
+      ],
+      "type": "TAGame.UISavedValues_TA",
+      "ordinal": 0,
+      "sha256": "7437FDCA74E2A9A2EB1C6E9F00507EA0830B4CEDB8F3BBBD1663C24714373EB4",
+      "data": "/////wcAAABWYWx1ZXMADgAAAEFycmF5UHJvcGVydHkABwQAAAAAAAAJAAAABAAAAEtleQANAAAATmFtZVByb3BlcnR5ABsAAAAAAAAAFwAAAFMyMk5ld1NldHRpbmdzVHV0b3JpYWwABgAAAFZhbHVlAAwAAABTdHJQcm9wZXJ0eQAJAAAAAAAAAAUAAAB0cnVlAAUAAABOb25lAAQAAABLZXkADQAAAE5hbWVQcm9wZXJ0eQAUAAAAAAAAABAAAABQcmltZV9DYXJTZWxlY3QABgAAAFZhbHVlAAwAAABTdHJQcm9wZXJ0eQAJAAAAAAAAAAUAAAB0cnVlAAUAAABOb25lAAQAAABLZXkADQAAAE5hbWVQcm9wZXJ0eQAcAAAAAAAAABgAAABMYXN0TWF0Y2htYWtlUGxheWxpc3RJRAAGAAAAVmFsdWUADAAAAFN0clByb3BlcnR5AAcAAAAAAAAAAwAAADExAAUAAABOb25lAAQAAABLZXkADQAAAE5hbWVQcm9wZXJ0eQAZAAAAAAAAABUAAABiQWNjZXB0ZWRPZmZsaW5lRVVMQQAGAAAAVmFsdWUADAAAAFN0clByb3BlcnR5AAkAAAAAAAAABQAAAHRydWUABQAAAE5vbmUABAAAAEtleQANAAAATmFtZVByb3BlcnR5ACIAAAAAAAAAHgAAAFVzZXJUcmFpbmluZ1Jlc2V0Um91bmRXYXJuaW5nAAYAAABWYWx1ZQAMAAAAU3RyUHJvcGVydHkACQAAAAAAAAAFAAAAdHJ1ZQAFAAAATm9uZQAEAAAAS2V5AA0AAABOYW1lUHJvcGVydHkAHwAAAAAAAAAbAAAAQXV0b1RvdXJuYW1lbnRzV2Fsa3Rocm91Z2gABgAAAFZhbHVlAAwAAABTdHJQcm9wZXJ0eQAJAAAAAAAAAAUAAAB0cnVlAAUAAABOb25lAAQAAABLZXkADQAAAE5hbWVQcm9wZXJ0eQAZAAAAAAAAABUAAABUcmFkZUluVjJXYWxrdGhyb3VnaAAGAAAAVmFsdWUADAAAAFN0clByb3BlcnR5AAkAAAAAAAAABQAAAHRydWUABQAAAE5vbmUABAAAAEtleQANAAAATmFtZVByb3BlcnR5ABYAAAAAAAAAEgAAAFF1aWNrRHJvcFR1dG9yaWFsAAYAAABWYWx1ZQAMAAAAU3RyUHJvcGVydHkACQAAAAAAAAAFAAAAdHJ1ZQAFAAAATm9uZQAEAAAAS2V5AA0AAABOYW1lUHJvcGVydHkAMwAAAAAAAAAvAAAARGlzYWJsZUV4dHJhTW9kZXNUb3VybmFtZW50U2tpbGxJbmZsdWVuY2VQb3B1cAAGAAAAVmFsdWUADAAAAFN0clByb3BlcnR5AAoAAAAAAAAABgAAAGZhbHNlAAUAAABOb25lAAUAAABOb25lAA=="
+    },
+    {
+      "categories": [
+        "Gameplay"
+      ],
+      "type": "TAGame.NetworkSave_TA",
+      "ordinal": 0,
+      "sha256": "839A50F13DA032B4FCD9848734D30A84783217BDD7D06E8F1A8A7A05659D15ED",
+      "data": "/////wUAAABOb25lAA=="
+    },
+    {
+      "categories": [
+        "Gameplay",
+        "Interface"
+      ],
+      "type": "TAGame.ConnectionQualitySave_TA",
+      "ordinal": 0,
+      "sha256": "839A50F13DA032B4FCD9848734D30A84783217BDD7D06E8F1A8A7A05659D15ED",
+      "data": "/////wUAAABOb25lAA=="
+    },
+    {
+      "categories": [
+        "Video"
+      ],
+      "type": "TAGame.VideoSettingsSavePC_TA",
+      "ordinal": 0,
+      "sha256": "E5ADF9C9A0A31618BDBFC4AC373FEAAD7DBA54AB200D3B8A3EB33E2903ABCF1F",
+      "data": "/////w0AAABWaWRlb09wdGlvbnMADgAAAEFycmF5UHJvcGVydHkA2QAAAAAAAAACAAAAAwAAAElkAA0AAABOYW1lUHJvcGVydHkAEQAAAAAAAAANAAAAUmVuZGVyRGV0YWlsAAYAAABWYWx1ZQAMAAAAU3RyUHJvcGVydHkACwAAAAAAAAAHAAAAQ3VzdG9tAAUAAABOb25lAAMAAABJZAANAAAATmFtZVByb3BlcnR5ABIAAAAAAAAADgAAAFRleHR1cmVEZXRhaWwABgAAAFZhbHVlAAwAAABTdHJQcm9wZXJ0eQARAAAAAAAAAA0AAABUZXh0dXJlc0hpZ2gABQAAAE5vbmUACwAAAFJlc29sdXRpb24ADAAAAFN0clByb3BlcnR5AA4AAAAAAAAACgAAADE5MjB4MTA4MAAHAAAATWF4RlBTAAwAAABJbnRQcm9wZXJ0eQAEAAAAAAAAABAnAAAPAAAAYlNob3dXZWF0aGVyRlgADQAAAEJvb2xQcm9wZXJ0eQAAAAAAAAAAAAARAAAAYlNob3dMaWdodFNoYWZ0cwANAAAAQm9vbFByb3BlcnR5AAAAAAAAAAAAABAAAABiU2hvd0xlbnNGbGFyZXMADQAAAEJvb2xQcm9wZXJ0eQAAAAAAAAAAAAAFAAAATm9uZQA="
+    },
+    {
+      "categories": [
+        "Gameplay"
+      ],
+      "type": "TAGame.GameplaySettingsSave_TA",
+      "ordinal": 0,
+      "sha256": "886B221CF26FEC6B68F546057669D559C962DFA40175079F0B829AE3274DEA6E",
+      "data": "/////xIAAABiUXVpY2tEcm9wT3BlbmluZwANAAAAQm9vbFByb3BlcnR5AAAAAAAAAAAAARcAAABiRmlyc3RUaW1lRGVmYXVsdFZvaWNlAA0AAABCb29sUHJvcGVydHkAAAAAAAAAAAABFQAAAFByZXZpb3VzRGVmYXVsdFZvaWNlAAwAAABTdHJQcm9wZXJ0eQALAAAAAAAAAAcAAABub2JvZHkACAAAAFZlcnNpb24ADAAAAEludFByb3BlcnR5AAQAAAAAAAAAAQAAAAUAAABOb25lAA=="
+    },
+    {
+      "categories": [
+        "Interface"
+      ],
+      "type": "TAGame.NotificationSave_TA",
+      "ordinal": 0,
+      "sha256": "A89D9043F73B28B2322223A8D0D4C11BC09C192883D960327988ED77A107AF6D",
+      "data": "/////xsAAABiU2hvd0l0ZW1TaG9wTm90aWZpY2F0aW9ucwANAAAAQm9vbFByb3BlcnR5AAAAAAAAAAAAASMAAABiRmlyc3RUaW1lRGVmYXVsdFNob3BOb3RpZmljYXRpb25zAA0AAABCb29sUHJvcGVydHkAAAAAAAAAAAABHwAAAGJTaG9wTm90aWZpY2F0aW9uc0RlZmF1bHRWYWx1ZQANAAAAQm9vbFByb3BlcnR5AAAAAAAAAAAAAQUAAABOb25lAA=="
+    },
+    {
+      "categories": [
+        "Audio",
+        "Chat"
+      ],
+      "type": "TAGame.EOSVoiceSettingsSave_TA",
+      "ordinal": 0,
+      "sha256": "4D0151AEA8C17B3CB7E589F3B49B7336916B08AA65E6C3A7B90BD4273B97D4AA",
+      "data": "/////xAAAABWb2ljZUNoYXRGaWx0ZXIADQAAAEJ5dGVQcm9wZXJ0eQAUAAAAAAAAAAwAAABFQ2hhdEZpbHRlcgAQAAAAQ2hhdEZpbHRlcl9Ob25lAA0AAABPdXRwdXRWb2x1bWUADgAAAEZsb2F0UHJvcGVydHkABAAAAAAAAADNzMw+CAAAAFZlcnNpb24ADAAAAEludFByb3BlcnR5AAQAAAAAAAAAAgAAAAUAAABOb25lAA=="
+    },
+    {
+      "categories": [
+        "Gameplay"
+      ],
+      "type": "TAGame.ProfileGameplaySave_TA",
+      "ordinal": 0,
+      "sha256": "ACD45FF65588F193440A8AE436E139217C6822439C92A948D14041005178F5BF",
+      "data": "/////x4AAABiQWxsb3dUYXJnZXRlZE5ld3NfRnVuY3Rpb25hbAANAAAAQm9vbFByb3BlcnR5AAAAAAAAAAAAABQAAABiQXV0b1NraXBHb2FsUmVwbGF5AA0AAABCb29sUHJvcGVydHkAAAAAAAAAAAABCAAAAFZlcnNpb24ADAAAAEludFByb3BlcnR5AAQAAAAAAAAAAAAAAAUAAABOb25lAA=="
+    },
+    {
+      "categories": [
+        "Controls"
+      ],
+      "type": "TAGame.ProfileControlsSave_TA",
+      "ordinal": 0,
+      "sha256": "A08FB67C4B3DC9615A1C440DCED659BBE4811A9495CBEDFC1A75F83E5F71A9EC",
+      "data": "/////xIAAABGb3JjZUZlZWRiYWNrTW9kZQANAAAAQnl0ZVByb3BlcnR5AB8AAAAAAAAAEwAAAEVGb3JjZUZlZWRiYWNrTW9kZQAbAAAARm9yY2VGZWVkYmFja01vZGVfRGlzYWJsZWQACAAAAFZlcnNpb24ADAAAAEludFByb3BlcnR5AAQAAAAAAAAAAAAAAAUAAABOb25lAA=="
+    },
+    {
+      "categories": [
+        "Camera"
+      ],
+      "type": "TAGame.ProfileCameraSave_TA",
+      "ordinal": 0,
+      "sha256": "B09445B0ACCFDF51788C851969F7EEA03A21315D112DF4E5BADB9C9EC067AFE5",
+      "data": "/////wcAAABDYW1lcmEADwAAAFN0cnVjdFByb3BlcnR5AOAAAAAAAAAAFgAAAFByb2ZpbGVDYW1lcmFTZXR0aW5ncwAEAAAARk9WAA4AAABGbG9hdFByb3BlcnR5AAQAAAAAAAAAAADcQgcAAABIZWlnaHQADgAAAEZsb2F0UHJvcGVydHkABAAAAAAAAAAAALRCBgAAAFBpdGNoAA4AAABGbG9hdFByb3BlcnR5AAQAAAAAAAAAAACAwAwAAABTd2l2ZWxTcGVlZAAOAAAARmxvYXRQcm9wZXJ0eQAEAAAAAAAAAAAAwEAQAAAAVHJhbnNpdGlvblNwZWVkAA4AAABGbG9hdFByb3BlcnR5AAQAAAAAAAAAMzOzPwUAAABOb25lABgAAABiUHJlZmVyc1NlY29uZGFyeUNhbWVyYQANAAAAQm9vbFByb3BlcnR5AAAAAAAAAAAAARMAAABiRW5hYmxlQ2FtZXJhU2hha2UADQAAAEJvb2xQcm9wZXJ0eQAAAAAAAAAAAAASAAAAYlJlcGxheVNjb3JlclZpZXcADQAAAEJvb2xQcm9wZXJ0eQAAAAAAAAAAAAESAAAAUHJlc3Bhd25MZXJwU3BlZWQADgAAAEZsb2F0UHJvcGVydHkABAAAAAAAAAAAAAAACAAAAFZlcnNpb24ADAAAAEludFByb3BlcnR5AAQAAAAAAAAAAAAAAAUAAABOb25lAA=="
+    },
+    {
+      "categories": [
+        "Chat"
+      ],
+      "type": "TAGame.ProfileQuickChatSave_TA",
+      "ordinal": 0,
+      "sha256": "9BAB3E89D2198A4B16DFE312F499F515AE50E6863968EBB3A948222A16860BD0",
+      "data": "/////wgAAABWZXJzaW9uAAwAAABJbnRQcm9wZXJ0eQAEAAAAAAAAAAAAAAAFAAAATm9uZQA="
+    },
+    {
+      "categories": [
+        "Controls"
+      ],
+      "type": "TAGame.ProfileGamepadSave_TA",
+      "ordinal": 0,
+      "sha256": "075DAFCE7FF707FC0886ACF72129F93DEA8BCD5E3E9025F5232754C9FF9F49A0",
+      "data": "/////xAAAABHYW1lcGFkQmluZGluZ3MADgAAAEFycmF5UHJvcGVydHkASxMAAAAAAAAMAAAABwAAAEFjdGlvbgANAAAATmFtZVByb3BlcnR5AAoAAAAAAAAABgAAAEJvb3N0AAQAAABLZXkADQAAAE5hbWVQcm9wZXJ0eQAcAAAAAAAAABgAAABYYm94VHlwZVNfUmlnaHRTaG91bGRlcgAJAAAAQXhpc1NpZ24ADQAAAEJ5dGVQcm9wZXJ0eQASAAAAAAAAAAoAAABFQXhpc1NpZ24ADgAAAEF4aXNTaWduX05vbmUACgAAAFByZXNzVHlwZQANAAAAQnl0ZVByb3BlcnR5AA8AAAAAAAAAEQAAAEVCdXR0b25QcmVzc1R5cGUACwAAAEJQVF9Ob3JtYWwABgAAAFNwZWVkAA4AAABGbG9hdFByb3BlcnR5AAQAAAAAAAAAAAAAAAoAAABiUmVxdWlyZWQADQAAAEJvb2xQcm9wZXJ0eQAAAAAAAAAAAAALAAAAUmVtYXBwYWJsZQANAAAAQnl0ZVByb3BlcnR5ABMAAAAAAAAADAAAAEVSZW1hcHBhYmxlAA8AAABSZW1hcHBhYmxlX0FsbAAFAAAATm9uZQAHAAAAQWN0aW9uAA0AAABOYW1lUHJvcGVydHkADgAAAAAAAAAKAAAASGFuZGJyYWtlAAQAAABLZXkADQAAAE5hbWVQcm9wZXJ0eQAbAAAAAAAAABcAAABYYm94VHlwZVNfTGVmdFNob3VsZGVyAAkAAABBeGlzU2lnbgANAAAAQnl0ZVByb3BlcnR5ABIAAAAAAAAACgAAAEVBeGlzU2lnbgAOAAAAQXhpc1NpZ25fTm9uZQAKAAAAUHJlc3NUeXBlAA0AAABCeXRlUHJvcGVydHkADwAAAAAAAAARAAAARUJ1dHRvblByZXNzVHlwZQALAAAAQlBUX05vcm1hbAAGAAAAU3BlZWQADgAAAEZsb2F0UHJvcGVydHkABAAAAAAAAAAAAAAACgAAAGJSZXF1aXJlZAANAAAAQm9vbFByb3BlcnR5AAAAAAAAAAAAAAsAAABSZW1hcHBhYmxlAA0AAABCeXRlUHJvcGVydHkAEwAAAAAAAAAMAAAARVJlbWFwcGFibGUADwAAAFJlbWFwcGFibGVfQWxsAAUAAABOb25lAAcAAABBY3Rpb24ADQAAAE5hbWVQcm9wZXJ0eQAOAAAAAAAAAAoAAABSb2xsUmlnaHQABAAAAEtleQANAAAATmFtZVByb3BlcnR5ABAAAAAAAAAADAAAAFhib3hUeXBlU19CAAkAAABBeGlzU2lnbgANAAAAQnl0ZVByb3BlcnR5ABIAAAAAAAAACgAAAEVBeGlzU2lnbgAOAAAAQXhpc1NpZ25fTm9uZQAKAAAAUHJlc3NUeXBlAA0AAABCeXRlUHJvcGVydHkADwAAAAAAAAARAAAARUJ1dHRvblByZXNzVHlwZQALAAAAQlBUX05vcm1hbAAGAAAAU3BlZWQADgAAAEZsb2F0UHJvcGVydHkABAAAAAAAAAAAAAAACgAAAGJSZXF1aXJlZAANAAAAQm9vbFByb3BlcnR5AAAAAAAAAAAAAAsAAABSZW1hcHBhYmxlAA0AAABCeXRlUHJvcGVydHkAEwAAAAAAAAAMAAAARVJlbWFwcGFibGUADwAAAFJlbWFwcGFibGVfQWxsAAUAAABOb25lAAcAAABBY3Rpb24ADQAAAE5hbWVQcm9wZXJ0eQANAAAAAAAAAAkAAABSb2xsTGVmdAAEAAAAS2V5AA0AAABOYW1lUHJvcGVydHkAGwAAAAAAAAAXAAAAWGJveFR5cGVTX0xlZnRTaG91bGRlcgAJAAAAQXhpc1NpZ24ADQAAAEJ5dGVQcm9wZXJ0eQASAAAAAAAAAAoAAABFQXhpc1NpZ24ADgAAAEF4aXNTaWduX05vbmUACgAAAFByZXNzVHlwZQANAAAAQnl0ZVByb3BlcnR5AA8AAAAAAAAAEQAAAEVCdXR0b25QcmVzc1R5cGUACwAAAEJQVF9Ob3JtYWwABgAAAFNwZWVkAA4AAABGbG9hdFByb3BlcnR5AAQAAAAAAAAAAAAAAAoAAABiUmVxdWlyZWQADQAAAEJvb2xQcm9wZXJ0eQAAAAAAAAAAAAALAAAAUmVtYXBwYWJsZQANAAAAQnl0ZVByb3BlcnR5ABMAAAAAAAAADAAAAEVSZW1hcHBhYmxlAA8AAABSZW1hcHBhYmxlX0FsbAAFAAAATm9uZQAHAAAAQWN0aW9uAA0AAABOYW1lUHJvcGVydHkAFQAAAAAAAAARAAAAVG9nZ2xlU2NvcmVib2FyZAAEAAAAS2V5AA0AAABOYW1lUHJvcGVydHkAEwAAAAAAAAAPAAAAWGJveFR5cGVTX0JhY2sACQAAAEF4aXNTaWduAA0AAABCeXRlUHJvcGVydHkAEgAAAAAAAAAKAAAARUF4aXNTaWduAA4AAABBeGlzU2lnbl9Ob25lAAoAAABQcmVzc1R5cGUADQAAAEJ5dGVQcm9wZXJ0eQAPAAAAAAAAABEAAABFQnV0dG9uUHJlc3NUeXBlAAsAAABCUFRfTm9ybWFsAAYAAABTcGVlZAAOAAAARmxvYXRQcm9wZXJ0eQAEAAAAAAAAAAAAAAAKAAAAYlJlcXVpcmVkAA0AAABCb29sUHJvcGVydHkAAAAAAAAAAAAACwAAAFJlbWFwcGFibGUADQAAAEJ5dGVQcm9wZXJ0eQATAAAAAAAAAAwAAABFUmVtYXBwYWJsZQAPAAAAUmVtYXBwYWJsZV9BbGwABQAAAE5vbmUABwAAAEFjdGlvbgANAAAATmFtZVByb3BlcnR5ABMAAAAAAAAADwAAAEF1dG9TYXZlUmVwbGF5AAQAAABLZXkADQAAAE5hbWVQcm9wZXJ0eQAJAAAAAAAAAAUAAABOb25lAAkAAABBeGlzU2lnbgANAAAAQnl0ZVByb3BlcnR5ABIAAAAAAAAACgAAAEVBeGlzU2lnbgAOAAAAQXhpc1NpZ25fTm9uZQAKAAAAUHJlc3NUeXBlAA0AAABCeXRlUHJvcGVydHkADQAAAAAAAAARAAAARUJ1dHRvblByZXNzVHlwZQAJAAAAQlBUX0hvbGQABgAAAFNwZWVkAA4AAABGbG9hdFByb3BlcnR5AAQAAAAAAAAAAAAAAAoAAABiUmVxdWlyZWQADQAAAEJvb2xQcm9wZXJ0eQAAAAAAAAAAAAALAAAAUmVtYXBwYWJsZQANAAAAQnl0ZVByb3BlcnR5ABMAAAAAAAAADAAAAEVSZW1hcHBhYmxlAA8AAABSZW1hcHBhYmxlX0FsbAAFAAAATm9uZQAHAAAAQWN0aW9uAA0AAABOYW1lUHJvcGVydHkAFwAAAAAAAAATAAAAVG9nZ2xlUmVwbGF5RlhNZW51AAQAAABLZXkADQAAAE5hbWVQcm9wZXJ0eQAJAAAAAAAAAAUAAABOb25lAAkAAABBeGlzU2lnbgANAAAAQnl0ZVByb3BlcnR5ABIAAAAAAAAACgAAAEVBeGlzU2lnbgAOAAAAQXhpc1NpZ25fTm9uZQAKAAAAUHJlc3NUeXBlAA0AAABCeXRlUHJvcGVydHkADwAAAAAAAAARAAAARUJ1dHRvblByZXNzVHlwZQALAAAAQlBUX05vcm1hbAAGAAAAU3BlZWQADgAAAEZsb2F0UHJvcGVydHkABAAAAAAAAAAAAAAACgAAAGJSZXF1aXJlZAANAAAAQm9vbFByb3BlcnR5AAAAAAAAAAAAAAsAAABSZW1hcHBhYmxlAA0AAABCeXRlUHJvcGVydHkAEwAAAAAAAAAMAAAARVJlbWFwcGFibGUADwAAAFJlbWFwcGFibGVfQWxsAAUAAABOb25lAAcAAABBY3Rpb24ADQAAAE5hbWVQcm9wZXJ0eQASAAAAAAAAAA4AAABSZXNldFRyYWluaW5nAAQAAABLZXkADQAAAE5hbWVQcm9wZXJ0eQAeAAAAAAAAABoAAABYYm94VHlwZVNfUmlnaHRUaHVtYlN0aWNrAAkAAABBeGlzU2lnbgANAAAAQnl0ZVByb3BlcnR5ABIAAAAAAAAACgAAAEVBeGlzU2lnbgAOAAAAQXhpc1NpZ25fTm9uZQAKAAAAUHJlc3NUeXBlAA0AAABCeXRlUHJvcGVydHkADAAAAAAAAAARAAAARUJ1dHRvblByZXNzVHlwZQAIAAAAQlBUX1RhcAAGAAAAU3BlZWQADgAAAEZsb2F0UHJvcGVydHkABAAAAAAAAAAAAAAACgAAAGJSZXF1aXJlZAANAAAAQm9vbFByb3BlcnR5AAAAAAAAAAAAAAsAAABSZW1hcHBhYmxlAA0AAABCeXRlUHJvcGVydHkAEwAAAAAAAAAMAAAARVJlbWFwcGFibGUADwAAAFJlbWFwcGFibGVfQWxsAAUAAABOb25lAAcAAABBY3Rpb24ADQAAAE5hbWVQcm9wZXJ0eQAXAAAAAAAAABMAAABGcmVlcGxheURlZmVuZFNob3QABAAAAEtleQANAAAATmFtZVByb3BlcnR5AAkAAAAAAAAABQAAAE5vbmUACQAAAEF4aXNTaWduAA0AAABCeXRlUHJvcGVydHkAEgAAAAAAAAAKAAAARUF4aXNTaWduAA4AAABBeGlzU2lnbl9Ob25lAAoAAABQcmVzc1R5cGUADQAAAEJ5dGVQcm9wZXJ0eQAPAAAAAAAAABEAAABFQnV0dG9uUHJlc3NUeXBlAAsAAABCUFRfTm9ybWFsAAYAAABTcGVlZAAOAAAARmxvYXRQcm9wZXJ0eQAEAAAAAAAAAAAAAAAKAAAAYlJlcXVpcmVkAA0AAABCb29sUHJvcGVydHkAAAAAAAAAAAAACwAAAFJlbWFwcGFibGUADQAAAEJ5dGVQcm9wZXJ0eQATAAAAAAAAAAwAAABFUmVtYXBwYWJsZQAPAAAAUmVtYXBwYWJsZV9BbGwABQAAAE5vbmUABwAAAEFjdGlvbgANAAAATmFtZVByb3BlcnR5ABAAAAAAAAAADAAAAENoYXRQcmVzZXQyAAQAAABLZXkADQAAAE5hbWVQcm9wZXJ0eQAJAAAAAAAAAAUAAABOb25lAAkAAABBeGlzU2lnbgANAAAAQnl0ZVByb3BlcnR5ABIAAAAAAAAACgAAAEVBeGlzU2lnbgAOAAAAQXhpc1NpZ25fTm9uZQAKAAAAUHJlc3NUeXBlAA0AAABCeXRlUHJvcGVydHkADwAAAAAAAAARAAAARUJ1dHRvblByZXNzVHlwZQALAAAAQlBUX05vcm1hbAAGAAAAU3BlZWQADgAAAEZsb2F0UHJvcGVydHkABAAAAAAAAAAAAAAACgAAAGJSZXF1aXJlZAANAAAAQm9vbFByb3BlcnR5AAAAAAAAAAAAAAsAAABSZW1hcHBhYmxlAA0AAABCeXRlUHJvcGVydHkAEwAAAAAAAAAMAAAARVJlbWFwcGFibGUADwAAAFJlbWFwcGFibGVfQWxsAAUAAABOb25lAAcAAABBY3Rpb24ADQAAAE5hbWVQcm9wZXJ0eQAQAAAAAAAAAAwAAABDaGF0UHJlc2V0NAAEAAAAS2V5AA0AAABOYW1lUHJvcGVydHkACQAAAAAAAAAFAAAATm9uZQAJAAAAQXhpc1NpZ24ADQAAAEJ5dGVQcm9wZXJ0eQASAAAAAAAAAAoAAABFQXhpc1NpZ24ADgAAAEF4aXNTaWduX05vbmUACgAAAFByZXNzVHlwZQANAAAAQnl0ZVByb3BlcnR5AA8AAAAAAAAAEQAAAEVCdXR0b25QcmVzc1R5cGUACwAAAEJQVF9Ob3JtYWwABgAAAFNwZWVkAA4AAABGbG9hdFByb3BlcnR5AAQAAAAAAAAAAAAAAAoAAABiUmVxdWlyZWQADQAAAEJvb2xQcm9wZXJ0eQAAAAAAAAAAAAALAAAAUmVtYXBwYWJsZQANAAAAQnl0ZVByb3BlcnR5ABMAAAAAAAAADAAAAEVSZW1hcHBhYmxlAA8AAABSZW1hcHBhYmxlX0FsbAAFAAAATm9uZQAHAAAAQWN0aW9uAA0AAABOYW1lUHJvcGVydHkAEAAAAAAAAAAMAAAAQ2hhdFByZXNldDEABAAAAEtleQANAAAATmFtZVByb3BlcnR5AAkAAAAAAAAABQAAAE5vbmUACQAAAEF4aXNTaWduAA0AAABCeXRlUHJvcGVydHkAEgAAAAAAAAAKAAAARUF4aXNTaWduAA4AAABBeGlzU2lnbl9Ob25lAAoAAABQcmVzc1R5cGUADQAAAEJ5dGVQcm9wZXJ0eQAPAAAAAAAAABEAAABFQnV0dG9uUHJlc3NUeXBlAAsAAABCUFRfTm9ybWFsAAYAAABTcGVlZAAOAAAARmxvYXRQcm9wZXJ0eQAEAAAAAAAAAAAAAAAKAAAAYlJlcXVpcmVkAA0AAABCb29sUHJvcGVydHkAAAAAAAAAAAAACwAAAFJlbWFwcGFibGUADQAAAEJ5dGVQcm9wZXJ0eQATAAAAAAAAAAwAAABFUmVtYXBwYWJsZQAPAAAAUmVtYXBwYWJsZV9BbGwABQAAAE5vbmUAEwAAAENvbnRyb2xsZXJEZWFkem9uZQAOAAAARmxvYXRQcm9wZXJ0eQAEAAAAAAAAAM3MTD0UAAAARG9kZ2VJbnB1dFRocmVzaG9sZAAOAAAARmxvYXRQcm9wZXJ0eQAEAAAAAAAAAGZmZj8UAAAAU3RlZXJpbmdTZW5zaXRpdml0eQAOAAAARmxvYXRQcm9wZXJ0eQAEAAAAAAAAAJqZmT8WAAAAQWlyQ29udHJvbFNlbnNpdGl2aXR5AA4AAABGbG9hdFByb3BlcnR5AAQAAAAAAAAAAADAPwgAAABWZXJzaW9uAAwAAABJbnRQcm9wZXJ0eQAEAAAAAAAAAAAAAAAFAAAATm9uZQA="
+    },
+    {
+      "categories": [
+        "Controls"
+      ],
+      "type": "TAGame.ProfilePCSave_TA",
+      "ordinal": 0,
+      "sha256": "B87A5CF66CBD62C6DC7B804FF6D132BA4EA0EDCB6F61E6EB3FF01B03562E2262",
+      "data": "/////wsAAABQQ0JpbmRpbmdzAA4AAABBcnJheVByb3BlcnR5ALgMAAAAAAAACAAAAAcAAABBY3Rpb24ADQAAAE5hbWVQcm9wZXJ0eQAUAAAAAAAAABAAAABUb2dnbGVTY29yZVZpZXcABAAAAEtleQANAAAATmFtZVByb3BlcnR5AA0AAAAAAAAACQAAAFNwYWNlQmFyAAkAAABBeGlzU2lnbgANAAAAQnl0ZVByb3BlcnR5ABIAAAAAAAAACgAAAEVBeGlzU2lnbgAOAAAAQXhpc1NpZ25fTm9uZQAKAAAAUHJlc3NUeXBlAA0AAABCeXRlUHJvcGVydHkADwAAAAAAAAARAAAARUJ1dHRvblByZXNzVHlwZQALAAAAQlBUX05vcm1hbAAGAAAAU3BlZWQADgAAAEZsb2F0UHJvcGVydHkABAAAAAAAAAAAAAAACgAAAGJSZXF1aXJlZAANAAAAQm9vbFByb3BlcnR5AAAAAAAAAAAAAAsAAABSZW1hcHBhYmxlAA0AAABCeXRlUHJvcGVydHkAEwAAAAAAAAAMAAAARVJlbWFwcGFibGUADwAAAFJlbWFwcGFibGVfQWxsAAUAAABOb25lAAcAAABBY3Rpb24ADQAAAE5hbWVQcm9wZXJ0eQATAAAAAAAAAA8AAABBdXRvU2F2ZVJlcGxheQAEAAAAS2V5AA0AAABOYW1lUHJvcGVydHkACQAAAAAAAAAFAAAATm9uZQAJAAAAQXhpc1NpZ24ADQAAAEJ5dGVQcm9wZXJ0eQASAAAAAAAAAAoAAABFQXhpc1NpZ24ADgAAAEF4aXNTaWduX05vbmUACgAAAFByZXNzVHlwZQANAAAAQnl0ZVByb3BlcnR5AA0AAAAAAAAAEQAAAEVCdXR0b25QcmVzc1R5cGUACQAAAEJQVF9Ib2xkAAYAAABTcGVlZAAOAAAARmxvYXRQcm9wZXJ0eQAEAAAAAAAAAAAAAAAKAAAAYlJlcXVpcmVkAA0AAABCb29sUHJvcGVydHkAAAAAAAAAAAAACwAAAFJlbWFwcGFibGUADQAAAEJ5dGVQcm9wZXJ0eQATAAAAAAAAAAwAAABFUmVtYXBwYWJsZQAPAAAAUmVtYXBwYWJsZV9BbGwABQAAAE5vbmUABwAAAEFjdGlvbgANAAAATmFtZVByb3BlcnR5ABcAAAAAAAAAEwAAAFRvZ2dsZVJlcGxheUZYTWVudQAEAAAAS2V5AA0AAABOYW1lUHJvcGVydHkACQAAAAAAAAAFAAAATm9uZQAJAAAAQXhpc1NpZ24ADQAAAEJ5dGVQcm9wZXJ0eQASAAAAAAAAAAoAAABFQXhpc1NpZ24ADgAAAEF4aXNTaWduX05vbmUACgAAAFByZXNzVHlwZQANAAAAQnl0ZVByb3BlcnR5AA8AAAAAAAAAEQAAAEVCdXR0b25QcmVzc1R5cGUACwAAAEJQVF9Ob3JtYWwABgAAAFNwZWVkAA4AAABGbG9hdFByb3BlcnR5AAQAAAAAAAAAAAAAAAoAAABiUmVxdWlyZWQADQAAAEJvb2xQcm9wZXJ0eQAAAAAAAAAAAAALAAAAUmVtYXBwYWJsZQANAAAAQnl0ZVByb3BlcnR5ABMAAAAAAAAADAAAAEVSZW1hcHBhYmxlAA8AAABSZW1hcHBhYmxlX0FsbAAFAAAATm9uZQAHAAAAQWN0aW9uAA0AAABOYW1lUHJvcGVydHkAFwAAAAAAAAATAAAARnJlZXBsYXlEZWZlbmRTaG90AAQAAABLZXkADQAAAE5hbWVQcm9wZXJ0eQAJAAAAAAAAAAUAAABOb25lAAkAAABBeGlzU2lnbgANAAAAQnl0ZVByb3BlcnR5ABIAAAAAAAAACgAAAEVBeGlzU2lnbgAOAAAAQXhpc1NpZ25fTm9uZQAKAAAAUHJlc3NUeXBlAA0AAABCeXRlUHJvcGVydHkADwAAAAAAAAARAAAARUJ1dHRvblByZXNzVHlwZQALAAAAQlBUX05vcm1hbAAGAAAAU3BlZWQADgAAAEZsb2F0UHJvcGVydHkABAAAAAAAAAAAAAAACgAAAGJSZXF1aXJlZAANAAAAQm9vbFByb3BlcnR5AAAAAAAAAAAAAAsAAABSZW1hcHBhYmxlAA0AAABCeXRlUHJvcGVydHkAEwAAAAAAAAAMAAAARVJlbWFwcGFibGUADwAAAFJlbWFwcGFibGVfQWxsAAUAAABOb25lAAcAAABBY3Rpb24ADQAAAE5hbWVQcm9wZXJ0eQAQAAAAAAAAAAwAAABDaGF0UHJlc2V0MQAEAAAAS2V5AA0AAABOYW1lUHJvcGVydHkACQAAAAAAAAAFAAAATm9uZQAJAAAAQXhpc1NpZ24ADQAAAEJ5dGVQcm9wZXJ0eQASAAAAAAAAAAoAAABFQXhpc1NpZ24ADgAAAEF4aXNTaWduX05vbmUACgAAAFByZXNzVHlwZQANAAAAQnl0ZVByb3BlcnR5AA8AAAAAAAAAEQAAAEVCdXR0b25QcmVzc1R5cGUACwAAAEJQVF9Ob3JtYWwABgAAAFNwZWVkAA4AAABGbG9hdFByb3BlcnR5AAQAAAAAAAAAAAAAAAoAAABiUmVxdWlyZWQADQAAAEJvb2xQcm9wZXJ0eQAAAAAAAAAAAAALAAAAUmVtYXBwYWJsZQANAAAAQnl0ZVByb3BlcnR5ABMAAAAAAAAADAAAAEVSZW1hcHBhYmxlAA8AAABSZW1hcHBhYmxlX0FsbAAFAAAATm9uZQAHAAAAQWN0aW9uAA0AAABOYW1lUHJvcGVydHkAEAAAAAAAAAAMAAAAQ2hhdFByZXNldDIABAAAAEtleQANAAAATmFtZVByb3BlcnR5AAkAAAAAAAAABQAAAE5vbmUACQAAAEF4aXNTaWduAA0AAABCeXRlUHJvcGVydHkAEgAAAAAAAAAKAAAARUF4aXNTaWduAA4AAABBeGlzU2lnbl9Ob25lAAoAAABQcmVzc1R5cGUADQAAAEJ5dGVQcm9wZXJ0eQAPAAAAAAAAABEAAABFQnV0dG9uUHJlc3NUeXBlAAsAAABCUFRfTm9ybWFsAAYAAABTcGVlZAAOAAAARmxvYXRQcm9wZXJ0eQAEAAAAAAAAAAAAAAAKAAAAYlJlcXVpcmVkAA0AAABCb29sUHJvcGVydHkAAAAAAAAAAAAACwAAAFJlbWFwcGFibGUADQAAAEJ5dGVQcm9wZXJ0eQATAAAAAAAAAAwAAABFUmVtYXBwYWJsZQAPAAAAUmVtYXBwYWJsZV9BbGwABQAAAE5vbmUABwAAAEFjdGlvbgANAAAATmFtZVByb3BlcnR5ABAAAAAAAAAADAAAAENoYXRQcmVzZXQ0AAQAAABLZXkADQAAAE5hbWVQcm9wZXJ0eQAJAAAAAAAAAAUAAABOb25lAAkAAABBeGlzU2lnbgANAAAAQnl0ZVByb3BlcnR5ABIAAAAAAAAACgAAAEVBeGlzU2lnbgAOAAAAQXhpc1NpZ25fTm9uZQAKAAAAUHJlc3NUeXBlAA0AAABCeXRlUHJvcGVydHkADwAAAAAAAAARAAAARUJ1dHRvblByZXNzVHlwZQALAAAAQlBUX05vcm1hbAAGAAAAU3BlZWQADgAAAEZsb2F0UHJvcGVydHkABAAAAAAAAAAAAAAACgAAAGJSZXF1aXJlZAANAAAAQm9vbFByb3BlcnR5AAAAAAAAAAAAAAsAAABSZW1hcHBhYmxlAA0AAABCeXRlUHJvcGVydHkAEwAAAAAAAAAMAAAARVJlbWFwcGFibGUADwAAAFJlbWFwcGFibGVfQWxsAAUAAABOb25lAAcAAABBY3Rpb24ADQAAAE5hbWVQcm9wZXJ0eQAJAAAAAAAAAAUAAABKdW1wAAQAAABLZXkADQAAAE5hbWVQcm9wZXJ0eQAVAAAAAAAAABEAAABSaWdodE1vdXNlQnV0dG9uAAkAAABBeGlzU2lnbgANAAAAQnl0ZVByb3BlcnR5ABIAAAAAAAAACgAAAEVBeGlzU2lnbgAOAAAAQXhpc1NpZ25fTm9uZQAKAAAAUHJlc3NUeXBlAA0AAABCeXRlUHJvcGVydHkADwAAAAAAAAARAAAARUJ1dHRvblByZXNzVHlwZQALAAAAQlBUX05vcm1hbAAGAAAAU3BlZWQADgAAAEZsb2F0UHJvcGVydHkABAAAAAAAAAAAAAAACgAAAGJSZXF1aXJlZAANAAAAQm9vbFByb3BlcnR5AAAAAAAAAAAAAAsAAABSZW1hcHBhYmxlAA0AAABCeXRlUHJvcGVydHkAEwAAAAAAAAAMAAAARVJlbWFwcGFibGUADwAAAFJlbWFwcGFibGVfQWxsAAUAAABOb25lAAgAAABWZXJzaW9uAAwAAABJbnRQcm9wZXJ0eQAEAAAAAAAAAAAAAAAFAAAATm9uZQA="
+    }
+  ],
+  "settings": [
+    {
+      "category": "Gameplay",
+      "name": "Splitscreen Layout",
+      "value": "Vertical",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Gameplay",
+      "name": "Cross-Platform Play",
+      "value": "On",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Gameplay",
+      "name": "Client Send Rate",
+      "value": "High",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Gameplay",
+      "name": "Server Send Rate",
+      "value": "High",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Gameplay",
+      "name": "Bandwidth Limit",
+      "value": "High",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Gameplay",
+      "name": "Input Buffer",
+      "value": "Default",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Gameplay",
+      "name": "Show Competitive Divisions",
+      "value": "On",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Gameplay",
+      "name": "Show Competitive Ranks",
+      "value": "All (Default)",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Gameplay",
+      "name": "Show Competitive MMR",
+      "value": "Everywhere",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Gameplay",
+      "name": "Force Default Team Colors",
+      "value": "Off",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Gameplay",
+      "name": "Show In-Match Event Visuals",
+      "value": "On",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Gameplay",
+      "name": "Game Stat Display Level",
+      "value": "Main Stats Only",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Gameplay",
+      "name": "Display Party Leader Left Message",
+      "value": "On",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Gameplay",
+      "name": "Skip Drop Opening Animation",
+      "value": "On",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Gameplay",
+      "name": "Flip Reset Indicator",
+      "value": "On",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Gameplay",
+      "name": "Skip Goal Replay",
+      "value": "On",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Camera",
+      "name": "Camera Preset",
+      "value": "Custom",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Camera",
+      "name": "Camera Shake",
+      "value": "Off",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Camera",
+      "name": "Field of View",
+      "value": "110",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Camera",
+      "name": "Distance",
+      "value": "270.00",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Camera",
+      "name": "Height",
+      "value": "90.00",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Camera",
+      "name": "Angle",
+      "value": "-4.00",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Camera",
+      "name": "Stiffness",
+      "value": "0.50",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Camera",
+      "name": "Swivel Speed",
+      "value": "6.00",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Camera",
+      "name": "Transition Speed",
+      "value": "1.40",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Camera",
+      "name": "Demo Transition Time",
+      "value": "0.00",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Camera",
+      "name": "Invert Swivel",
+      "value": "On",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Camera",
+      "name": "Preview Spawn Transition Time",
+      "value": "0.25",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Camera",
+      "name": "Preview Spawn Changed Transition Time",
+      "value": "0.10",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Controls",
+      "name": "Steering Sensitivity",
+      "value": "1.20",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Controls",
+      "name": "Aerial Sensitivity",
+      "value": "1.50",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Controls",
+      "name": "Controller Deadzone",
+      "value": "0.05",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Controls",
+      "name": "Dodge Deadzone",
+      "value": "0.90",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Controls",
+      "name": "Controller Vibration",
+      "value": "Disabled",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Controls",
+      "name": "Vibration Intensity",
+      "value": "1.00",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Controls",
+      "name": "Ball Camera Mode",
+      "value": "Toggle",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Controls",
+      "name": "Mouse Sensitivity",
+      "value": "10.00",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Controls",
+      "name": "Keyboard Input Acceleration Time",
+      "value": "0.00",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Controls",
+      "name": "Rumble Activation Buffer",
+      "value": "0.00",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Controls",
+      "name": "Keyboard Aerial Safety",
+      "value": "On",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Interface",
+      "name": "Interface Scale",
+      "value": "100%",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Interface",
+      "name": "Display Scale",
+      "value": "100%",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Interface",
+      "name": "Nameplate Scale",
+      "value": "100%",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Interface",
+      "name": "Nameplate Mode",
+      "value": "Default",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Interface",
+      "name": "Match Notifications",
+      "value": "All",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Interface",
+      "name": "Stat Graphs",
+      "value": "None",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Interface",
+      "name": "Connection Quality Indicators",
+      "value": "On",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Interface",
+      "name": "Color Blind Mode",
+      "value": "Off",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Interface",
+      "name": "Social Notifications During Gameplay",
+      "value": "On",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Interface",
+      "name": "Item Shop Notifications",
+      "value": "On",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Interface",
+      "name": "Team-Colored Boost Meter",
+      "value": "On",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Interface",
+      "name": "Metric",
+      "value": "Off",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Interface",
+      "name": "Ball Cam Indicator",
+      "value": "On",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Interface",
+      "name": "Ball Arrow",
+      "value": "On",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Interface",
+      "name": "Hide In-Game HUD",
+      "value": "Off",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Interface",
+      "name": "Convert Platform Friends",
+      "value": "Off",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "Resolution",
+      "value": "1920 x 1080 16:9",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "Display Mode",
+      "value": "Borderless",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "Vertical Sync",
+      "value": "Off",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "Anti-Aliasing",
+      "value": "Off",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "Render Quality",
+      "value": "High Quality",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "Render Detail",
+      "value": "Custom",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "Frames Per Second",
+      "value": "Uncapped",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "Texture Detail",
+      "value": "Quality",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "World Detail",
+      "value": "Quality",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "Particle Detail",
+      "value": "Performance",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "Effect Intensity",
+      "value": "Default",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "High Quality Shaders",
+      "value": "Off",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "Ambient Occlusion",
+      "value": "Off",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "Depth of Field",
+      "value": "Off",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "Bloom",
+      "value": "Off",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "Light Shafts",
+      "value": "Off",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "Lens Flares",
+      "value": "Off",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "Dynamic Shadows",
+      "value": "Off",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "Motion Blur",
+      "value": "Off",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Video",
+      "name": "Weather Effects",
+      "value": "Off",
+      "enabled": true,
+      "coverage": "Built-in save profile + local config snapshot"
+    },
+    {
+      "category": "Audio",
+      "name": "Master",
+      "value": "31%",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Audio",
+      "name": "Gameplay",
+      "value": "12%",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Audio",
+      "name": "Music - Playlists",
+      "value": "0%",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Audio",
+      "name": "Music - Gameplay",
+      "value": "0%",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Audio",
+      "name": "Voice Chat",
+      "value": "40%",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Audio",
+      "name": "Ambient",
+      "value": "3%",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Audio",
+      "name": "Crowd",
+      "value": "1%",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Audio",
+      "name": "Output Type",
+      "value": "Speakers",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Audio",
+      "name": "Dynamic Range",
+      "value": "Default",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Audio",
+      "name": "Gameplay Music Settings",
+      "value": "Main Menu and Training",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Audio",
+      "name": "Player Anthems",
+      "value": "Matches Only",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Audio",
+      "name": "Mute on Unfocused",
+      "value": "On",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Audio",
+      "name": "Use Standard Boost Sound",
+      "value": "Off",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Chat",
+      "name": "Block Non-Tactical Quick Chat",
+      "value": "Off",
+      "enabled": true,
+      "coverage": "Built-in save profile"
+    },
+    {
+      "category": "Chat",
+      "name": "Quick Chat",
+      "value": "Allow Quick Chat with Everyone",
+      "enabled": true,
+      "coverage": "Cloud/server policy (not proven local)"
+    },
+    {
+      "category": "Chat",
+      "name": "Match Chat",
+      "value": "Allow Text Chat with Everyone",
+      "enabled": true,
+      "coverage": "Cloud/server policy (not proven local)"
+    },
+    {
+      "category": "Chat",
+      "name": "Party Chat",
+      "value": "Allow Party Text Chat with Everyone",
+      "enabled": true,
+      "coverage": "Cloud/server policy (not proven local)"
+    },
+    {
+      "category": "Chat",
+      "name": "Text Reporting",
+      "value": "Off When Possible",
+      "enabled": true,
+      "coverage": "Cloud/server policy (not proven local)"
+    }
+  ]
+}
